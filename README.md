@@ -1,2 +1,2 @@
-# setiaditech_resolusi
+# setiatech_resolusi
 Repositori untuk menyimpan resolusi setiaditech kedepan
